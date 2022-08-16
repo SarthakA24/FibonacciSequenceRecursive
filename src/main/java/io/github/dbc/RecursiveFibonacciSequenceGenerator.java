@@ -8,6 +8,12 @@ public class RecursiveFibonacciSequenceGenerator {
      * @return the n th term of the Fibonacci sequence.
      */
     public int calculateFibonacciNumber(int number) {
-        return Integer.MIN_VALUE;
+        if (number < 0) {
+            System.out.println("Invalid Input");
+        }
+        if (number == 1 || number == 0) {
+            return number;
+        }
+        return calculateFibonacciNumber(number - 1) + calculateFibonacciNumber(number - 2);
     }
 }
