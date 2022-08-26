@@ -1,19 +1,11 @@
 # Fibonacci Sequence
 
-## Java Programming Course
-
 ---
 
-**Course 1**: Problem-Solving and Computational Thinking using Java
-
-**Sprint 7**: Implementing Recursion
-
+About the Program
 ---
 
-Problem Statement
----
-
-Write a program in `Java` to calculate the `n`th term of the Fibonacci series recursively using the following formula:
+A program in `Java` to calculate the `n`th term of the Fibonacci series recursively using the following formula:
 
 ```
 Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)
@@ -21,12 +13,11 @@ Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)
 
 ---
 
-Task
+Code Files
 ---
 
-1. Open the [source code file](src/main/java/io/github/dbc/RecursiveFibonacciSequenceGenerator.java) and complete the code.
-2. Open the [test case file](src/test/java/io/github/dbc/RecursiveFibonacciSequenceGeneratorTest.java) and run the test cases to
-   check your code.
+1.[Source Code](src/main/java/io/github/dbc/RecursiveFibonacciSequenceGenerator.java)
+2.[Test Cases](src/test/java/io/github/dbc/RecursiveFibonacciSequenceGeneratorTest.java)
 
 ---
 
