@@ -16,8 +16,8 @@ Fibonacci(n) = Fibonacci(n-1) + Fibonacci(n-2)
 Code Files
 ---
 
-1.[Source Code](src/main/java/io/github/dbc/RecursiveFibonacciSequenceGenerator.java)
-2.[Test Cases](src/test/java/io/github/dbc/RecursiveFibonacciSequenceGeneratorTest.java)
+1. [Source Code](src/main/java/io/github/dbc/RecursiveFibonacciSequenceGenerator.java)
+2. [Test Cases](src/test/java/io/github/dbc/RecursiveFibonacciSequenceGeneratorTest.java)
 
 ---
 
